@@ -11,8 +11,7 @@ A very basic express server that is used as a base for CI/CD deployment and TDD 
 ### Links and Resources
 
 - [Github actions](http://localhost:3001)
-- [back-end dev server url](http://localhost:3001)
-- [back-end production server url](http://localhost:3001)
+- [back-end production server url](http://localhost:3001](https://frolic-basic-express-server.onrender.com)
 
 #### `.env` requirements
 
